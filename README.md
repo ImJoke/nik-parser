@@ -27,5 +27,5 @@ options:
  - Python ≥ 3.x.x
 # TODO
 - [ ] Recreate this code (more better)
-# Credit
+# References
 - [bachors](https://github.com/bachors/nik_parse.js "Modified from bachors")
