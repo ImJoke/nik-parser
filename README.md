@@ -1,8 +1,6 @@
 # Installing
 ```sh
 git clone https://github.com/ImJoke/nik-parser
-mv nik-parser/nik_parse.py .
-rm -rf nik-parser
 ```
 # Usage
 ```sh
