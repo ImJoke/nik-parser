@@ -21,6 +21,8 @@ options:
   -h, --help         show this help message and exit
   -n NIK, --nik NIK  Nomor Induk Kependudukan
  ```
+# Note
+Try to combine this tool with the [nik-info](https://github.com/ImJoke/nik-info "nik-info") tool
 # Supported version
  - Python ≥ 3.x.x
 # TODO
