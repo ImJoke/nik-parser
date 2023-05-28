@@ -1,6 +1,6 @@
 # Installing
 ```sh
-git clone https://github.com/ImJoke/nik-parser
+git clone --depth=1 https://github.com/ImJoke/nik-parser
 ```
 # Usage
 ```sh
